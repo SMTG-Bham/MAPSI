@@ -2,8 +2,13 @@
 
 Repository for paper: DOI:xxx
 
-Optimised crystal structures of MAPSI from density functional theory using.
-The final structures have been obtained following an iterative procedure with small ion displacements (ISIF2 in VASP) using a Quasi-Newton algorithm and the PBEsol exchange-correlation functional.
+Optimised crystal structures of MAPSI from density functional theory, calculated using the Vienna Ab Initio Package (VASP).
+
+## Computational Details
+
+The crystal structure of MAPSI obtained by Daub and Harald Hillebrecht [1] was used as the starting point for the calculations.
+We have optimised the structures using 3 different functionals: PBEsol, PBEsol + Grimme’s D3 dispersion correction (PBEsol+D3), and PBE+D3.
+The final structures have been obtained following an iterative procedure where the ion positions, cell shape, and cell volume are allowed to change (ISIF3 in VASP) using a Quasi-Newton algorithm.
 
 ## Requirements
 
