@@ -23,4 +23,4 @@ This file is not affiliated with VASP. Feel free to use and modify, but do so at
 References
 -------
 
-1. M. Daub and H. Hillebrecht, Synthesis, Single-Crystal Structure and Characterization of MAPSI, *Angewandte Chemie*, **54**, 11168-11169 (2015) doi: [10.1002/ange.201506449](http://onlinelibrary.wiley.com/doi/10.1002/anie.201506449/abstract)
+1. M. Daub and H. Hillebrecht, Synthesis, Single-Crystal Structure and Characterization of MAPSI, *Angewandte Chemie*, **54**, 11168-11169 (2015) doi: [10.1002/anie.201506449](http://onlinelibrary.wiley.com/doi/10.1002/anie.201506449/abstract)
