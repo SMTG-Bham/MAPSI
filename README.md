@@ -2,7 +2,7 @@
 
 Repository for paper: DOI:xxx
 
-Optimised crystal structures of MAPSI from density functional theory, calculated using the Vienna *Ab Initio* Package (VASP).
+Optimised crystal structures of MAPSI from density functional theory, calculated using the Vienna *Ab initio* Package (VASP).
 
 Computational Details
 -----------------------
