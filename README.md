@@ -14,7 +14,7 @@ The final structures have been obtained following an iterative procedure where t
 Requirements
 ------
 To open the .cif file, a viewer such as http://jp-minerals.org/vesta/en/.
-To run the POSCAR file: a VASP license, and the other required input files (INCAR; KPOINTS and POTCAR)
+To run the POSCAR file: a VASP license, and suitable input INCAR, KPOINTS, and POTCAR files.
 
 Disclaimer
 ------
