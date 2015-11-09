@@ -1,6 +1,7 @@
 # MAPSI
 
-Repository for paper: DOI:[10.1021/acs.jpclett.5b02177](http://pubs.acs.org/doi/10.1021/acs.jpclett.5b02177)
+Repository for paper: (CH<sub>3</sub>NH<sub>3</sub>)<sub>2</sub>Pb(SCN)<sub>2</sub>I<sub>2</sub>: A More Stable Structural Motif for Hybrid Halide Photovoltaics?
+DOI:[10.1021/acs.jpclett.5b02177](http://pubs.acs.org/doi/10.1021/acs.jpclett.5b02177)
 
 Optimised crystal structures of MAPSI from density functional theory, calculated using the Vienna *Ab initio* Package (VASP).
 
